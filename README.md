@@ -1,2 +1,3 @@
 # misaka-movies
-the source code of videos about misaka
+The source code of videos about misaka
+If you want to watch the movies, please compile the source code(.llc) with LosslessCut
