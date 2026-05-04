@@ -1,0 +1,48 @@
+{
+  version: 2,
+  mediaFileName: '6.mp4',
+  cutSegments: [
+    {
+      start: 0,
+      end: 21.438064122225757,
+      name: '',
+      selected: false,
+    },
+    {
+      start: 21.646605602013945,
+      end: 50.50874640469921,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 518.6009519372667,
+      end: 532.3229813073295,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 561.6856216615064,
+      end: 584.291518070546,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 656.9056613327932,
+      end: 678.8442250065106,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 735.693,
+      end: 770.728,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 1061.1007574582597,
+      end: 1089.045315749877,
+      name: '',
+      selected: true,
+    },
+  ],
+}

@@ -1,0 +1,24 @@
+{
+  version: 2,
+  mediaFileName: '24.mp4',
+  cutSegments: [
+    {
+      start: 960.376,
+      end: 995.411,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 1023.4801140932185,
+      end: 1041.7483519991165,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 1098.5967726971505,
+      end: 1154.1105276121052,
+      name: '',
+      selected: true,
+    },
+  ],
+}

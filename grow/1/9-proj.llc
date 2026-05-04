@@ -1,0 +1,12 @@
+{
+  version: 2,
+  mediaFileName: '9.mp4',
+  cutSegments: [
+    {
+      start: 536.4939611487974,
+      end: 561.352,
+      name: '',
+      selected: true,
+    },
+  ],
+}
